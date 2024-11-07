@@ -6,8 +6,10 @@ Manual for contributors, reviewers, editors, and publishing: [https://cs4rl.gith
 
 # **Editing**
 
-Please edit the manual on [Google Docs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM) and raise a Github [Issue](https://github.com/cs4rl/style-editorial-publishing-manual/issues) to have edits approved or use the pipeline to commit edits.  
-[Open in GitHub Codespaces](https://codespaces.new/cs4rl/style-editorial-publishing-manual?quickstart=1)  
+Please edit the manual on [Google Docs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM) and raise a Github [Issue](https://github.com/cs4rl/style-editorial-publishing-manual/issues) to have edits approved or use the pipeline to commit edits.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cs4rl/style-editorial-publishing-manual?quickstart=1)
+
 \#CS4RL
 
 # **Citizen Science Guide for Research Libraries**
