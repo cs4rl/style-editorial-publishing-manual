@@ -1,3 +1,90 @@
-# Editorial
+# Editorial Manual
 
-Instructions for editors.
+\[[Edit on GDocs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM)\]
+
+## Mission statement
+
+The guide is designed to be a practical and compact gateway publication for the purpose of assisting research libraries to start setting up a Citizen Science programme.  
+Citizen Science for research libraries is a way to build new and more engaged audiences as a way to establish new links between science and society.  
+The guide will address the unique context of research libraries – as becoming the ‘go to place’ for the new and exciting Open Science data world that is opening up to the wider public.  
+As a starting point the guide will use the four recommendations for Citizen Science from the [LIBER Open Science Roadmap](https://doi.org/10.5281/zenodo.1303002): infrastructures; good scientific practice; guidelines, and; skilling.
+
+## Contents
+
+The content will be organised around the following four main sections and release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas or suggestions for content.
+
+1. Skills: Citizen Science skills development for staff, researchers, and the public;  
+2. Infrastructures: As being active in the development of infrastructure for researchers to carry out Citizen Science;  
+3. Good \[open\] scientific practice: as managing bodies around knowledge libraries that can translate good \[Open Science\] scholarly practice into new Citizen Science fields, and;  
+4. Guidelines: develop guidelines for Citizen Science activities involving the library.
+
+### Glossary
+
+Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an [Open Science](https://demo.hedgedoc.org/Dk4aKir9RyO1pi3jwr4Psw#Outline) example.
+
+## Editorial management
+
+* peer review / roles
+
+Co-Editors-in-Chief: Simon Worthington and Thomas Kaarsted, reports to CSWG. The role is that of content planning and project management – that contributions fulfill the mission to make a compelling and exciting end product; ensuring publication review groups and production workflows stay on track. Duties: maintain content outline; organise meeting schedule; oversee technical production, and; responsible for legal, ethical, and quality guidelines and standards compliance on behalf of CSWG.  
+Editorial committee (can also peer review): Chair – Paul Ayris, with a minimum of four members of the committee. The committee is made up of the section editors. There will be one section editor per section of four sections (optionally sometimes two section editors). The committee has the final editorial signoff on content. The role of the committee is content coordination and commissioning contributions – that sections have enough content, the right type of content, and that style guides and templates, etc., are being followed.  
+Section editors: The role of the section editor is to oversee that the content fits the scope and editorial policy. Section editors work with close support from the Editors-in-Chief and report to the editorial committee with the content of the section, recruit contributors, and correspond with peer reviewers. Section editors would ensure that contributors have followed contributor guidelines.  
+Section editors are:
+
+1. Citizen Science research infrastructure – Kirsty Wallis, University College London  
+2. Good (Open Science) scholarly practice in Citizen Science – Bastian Greshake Tzovaras, OpenHumans  
+3. Guidelines for Citizen Science programme development in libraries – Paul Ayris, University College London  
+4. Citizen Science Skilling for Staff, Researchers, and the Public – Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk
+
+Contributor: A contributor would provide one or two articles in agreement with section editors following the templates and style sheet of the guide.  
+Peer review: Carry out some parts as Open Peer Review. Made up of people appointed by section editors. There will be two peer reviewers per section. The reviews will be selected from – CSWG; editorial committee; external appointees, and publication partners and collaborators.  
+Scientific peer review: The editorial committee would aim to appoint two experts in the field as external reviewers.  
+Partners: Bring on contributing partners to the publication as institutional partners. Primarily these partners would provide and exchange content, as experts in the field, and be co-producers. These partners could also contribute resources and be attributed: DOIs, ISBN, profiling, translations, etc. Letters of agreement would be made with partners.  
+Collaborations: These would orientate around content provision, advocacy, research and resource provision.
+
+## Notes for editors
+
+* Style guide, and contribution templates
+
+Co-Editors-in-Chief Simon Worthington and Thomas Kaarsted will provide writers guidelines for you to distribute to contributors.  
+All character counts are inclusive white spaces.  
+We would encourage contributors to do the following:
+
+* To make available check lists or materials used in CS activities and supply us with information on these and then we can see how to include them as either incorporated check lists or as external linked content.  
+* To provide us with visual material to support contributions: photo documentation of past events; PDFs of promotional material, videos and video links so that we can look at how to creatively include these in articles.  
+* References will be typeset as CMOS note bibliography per article, with no author date inline, and in a [Zotero Groups \- Collection](https://www.zotero.org/groups/2420395/cswg/collections/HAJYX37C).  
+* If possible use Zotero citation manager in Google Docs and store citations in the CSWG Zotero group, see: [https://www.zotero.org/groups/2420395/cswg/collections/HAJYX37C](https://www.zotero.org/groups/2420395/cswg/collections/HAJYX37C)  
+* Sections should be thought of as 25 page sections, with 400 words a page as a guide.
+
+## Article finishing
+
+1. Processing review edits: Save a names revision before processing edits so that we have a copy of the reviews if they have been added as comments or track changes.  
+2. Article images. Editors need to add article images. Articles need a featured image if possible, note its optional to have a featured image. This should be placed immediately after the article title or after the into and author credit. It depends on how the article looks in layout as to its placement. Place other images in the article to help communicate the work. If you cannot source any images then please raise a ticket and the editorial group will take on board the task.  
+3. Use of academic titles for authors and editors? Generally remove. But if unsure consult the editorial group for support [cs4rl/guide\#35](https://github.com/cs4rl/guide/issues/35)  
+   1. Use them if provided by author in attribution? TBC  
+   2. Book information: Copyright pages, authors, etc., do not use  
+4. The text should have a Title (between 1 and 10 words).  
+5. The text should have a headline summary that briefly outlines the content of the section (max. 30 words).  
+6. For each introduction author submit a name, department and institution, and ORCID iD. But not job title. See example [https://write.handbuch.io/document/465](https://write.handbuch.io/document/465)  
+7. Article DOI line. Add as Article DOI: 10.25815/f360-s580 | You can retrieve DOIs from the article page plan Google spreadsheet. [https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY\_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit\#gid=0](https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit#gid=0)  
+8. Article Info Boxes and Case Studies formatting: Currently this is a bit of a work around as applying an inline style is not possible in other ways. To make an info box first create a table with only one cell, then paste content into the cell and format as usual. The effect of using the table is that it puts a blue background behind and around the text.  
+9. Please divide the text into sections, with the following. Note: There is a Header hierarchy view on the left of Documents accessible via the 'scroll' icon.:  
+   1. Headings H2,  
+   2. *Subheadings H3.*  
+10. Do not include a Table of Contents.  
+11. Use single space for spacing.  
+12. Do not use line spaces between paragraphs or for line spacing, instead use space before and after paragraph or header.  
+13. Use single column format.  
+14. Tables and figures. To be placed in individual files. Tables should serve a purpose and display cores data in a brief and structured way.  
+15. Each Table and Figure are automatically numbered by the publishing pipeline, there is no need to manually add them. A brief description placed below that correspond with the file. All Figures in min. 600 dpi resolution or vector graphic.  
+16. A maximum of three core references listed at the very bottom.  
+17. Use The Chicago Manual of Style 17th Edition style for references. All references should have an author or organization given first. Also please list a DOI for each reference if possible.  
+    Sample reference:  
+    Ayris, Paul, Isabel Bernal, Valentino Cavalli, Bertil Dorch, Jeannette Frey, Martin Hallik, Kristiina Hormia-Poutanen, et al. ‘LIBER Open Science Roadmap’. LIBER, 2 July 2018\. .  
+18. For any additional details please contact the Co-Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) or Thomas Kaarsted (thk@bib.sdu.dk).  
+19. Author and editor profiles. ORCID ORCID iD: followed by 16 digit number and not URL as commonly used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link to both and make links active.
+
+See example: By Jitka Stilund Hansen, DTU Library, Technical University of Denmark, (ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221)).
+
+1. Refer to sections numbers as Section \#1 or Section \#2.
+

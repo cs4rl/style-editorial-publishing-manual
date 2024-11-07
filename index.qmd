@@ -1,24 +1,29 @@
-# Preface {.unnumbered}
+# Preface
+
+\[[Edit on GDocs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM)\]
 
 This is a manual for the contributors and editorial team of the Citizen Science Guide for Research Libraries from the LIBER Citizen Science Working Group.
 
 The manual is made of three parts:
 
-- A Style Guide Manual: For contributors, reviewers, editors
-- An Editorial Manual: For editors and reviewers
-- A Publishing Manual: For the publishing and platform workflows
+* A Style Guide Manual: For contributors, reviewers, editors  
+* An Editorial Manual: For editors and reviewers  
+* A Publishing Manual: For the publishing and platform workflows
 
-# Editing 
+# Editing
 
 Please edit the manual on [Google Docs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM) and raise a Github [Issue](https://github.com/cs4rl/style-editorial-publishing-manual/issues) to have edits approved or use the pipeline to commit edits.
+
+[Open in GitHub Codespaces](https://codespaces.new/cs4rl/style-editorial-publishing-manual?quickstart=1)
 
 ## Resources
 
 Documentation and tools
 
-- Google Drive - (folder)  <https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols>
-- Meetings rolling agenda - (document)  <https://docs.google.com/document/d/1OAt5bM-WiM8JrwK_0kbuGyBzwV9N4-a8z9sAlpBi7BM/edit#heading=h.7ok2754bgdue>  
-- Membership list and task areas -  <https://docs.google.com/document/d/1pwHNuFDy0W-jXE3VuyhLoREoe9BJ86cfdmKWTCgvI4g/edit> 
-- Trello -  <https://trello.com/b/WH13uh1E/guide> 
-- Slack -  <https://csguide.slack.com/>   <https://join.slack.com/t/csguide/shared_invite/zt-2ms9u6i3r-fYte~TT7Z7MLXiKmzfzU4g> 
-- Editing platform (Fidus Writer) -  <https://write.handbuch.io/> 
+* Google Drive \- (folder) [https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols](https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols)  
+* Meetings rolling agenda \- (document) [https://docs.google.com/document/d/1OAt5bM-WiM8JrwK\_0kbuGyBzwV9N4-a8z9sAlpBi7BM/edit\#heading=h.7ok2754bgdue](https://docs.google.com/document/d/1OAt5bM-WiM8JrwK_0kbuGyBzwV9N4-a8z9sAlpBi7BM/edit#heading=h.7ok2754bgdue)  
+* Membership list and task areas \- [https://docs.google.com/document/d/1pwHNuFDy0W-jXE3VuyhLoREoe9BJ86cfdmKWTCgvI4g/edit](https://docs.google.com/document/d/1pwHNuFDy0W-jXE3VuyhLoREoe9BJ86cfdmKWTCgvI4g/edit)  
+* Trello \- [https://trello.com/b/WH13uh1E/guide](https://trello.com/b/WH13uh1E/guide)  
+* Slack \- [https://csguide.slack.com/](https://csguide.slack.com/) [https://join.slack.com/t/csguide/shared\_invite/zt-2ms9u6i3r-fYte\~TT7Z7MLXiKmzfzU4g](https://join.slack.com/t/csguide/shared_invite/zt-2ms9u6i3r-fYte~TT7Z7MLXiKmzfzU4g)  
+* Editing platform (Fidus Writer) \- [https://write.handbuch.io/](https://write.handbuch.io/)
+

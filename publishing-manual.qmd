@@ -1,3 +1,45 @@
-# Publishing
+# Publishing Manual
 
-Instructions for publishing team.
+\[[Edit on GDocs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM)\]
+
+## Using Fidus Writers
+
+1. Note: Fidus Writer is designed as a semantic editors, for document editing and layout this means that there are some restrictions on editing like not being able to select fonts \- instead style in terms of fonts, citation styles, etc., are applied on output. See the Book area of the site to preview content in final outputs such as PDF, eBook, Web, WebBook, etc.  
+2. Images: Images can be configured to appear in text as: figures, photos, to replace tables, etc. Also figures can be set to display captions or not. Last images can be set as 100%, 75%, 50%, and 25% width. Image widths can be set later at the time of publishing.  
+3. Intro, author, and DOI styling. See example: [https://write.handbuch.io/document/465](https://write.handbuch.io/document/465). Intro uses the Abstract style. Author text as Normal style. DOI line is made as bold.  
+4. Adding or converting manual added citations. Fidus Writer has a citation manager that needs to be used as this applies citation style langauge to citations \- styling them and organising them. Place cursor inline where you want the citation to be inserted. In top menu select Cite \- you will be able to either search databases for citation or manually add a citation. The citation will be added inline and at bottom of article. Citations get automatically styled if citation style is changed. Citations can be edited by clicking them in the bottom of the article.  
+5. Inserting footnotes. Use \* tool from format toolbar at top of document.  
+6. Tables. Tables can be added and edited from the format toolbar and via the three dot edit icon inline. Note: Currently in the CS Guide publications tables are exclusively used to style the info boxes. See information in the Article finishing section.  
+7. Spelling and grammar check: A spellchecker is available from the Tools menu. Once spelling and grammar checker has been loaded \- right click on marked items to see correction suggestions. To remove marks use the menu item: Tools \> Spelling and Grammar \> Remove items.  
+8. Links: URL links can be added and edited. Do not use the internal links function as this does not work for all outputs.  
+9. Save revisions: You can make snapshot saved revisions \- for example to save a copy prior to editing reviews. These revisions need to be loaded back into the system as new documents which is a bit cumbersome. Contact support to revert to a revision.  
+10. Sharing articles: to give others access to documents you need to share the document with a specific user. See the file menu for sharing options.  
+11. Track changes: There is full track changes functionality if needed. See the top level menu item in documents.
+
+## **Metadata**
+
+As of Q4 2024 for the section Policy and Implementation a new metadata workflow will be used.
+
+* Thoth.pub  
+* Zenodo
+
+## **Production**
+
+The book is intended as a short guide and will be approximately one hundred pages in length. The publication will be produced in conventional and sprint/dash book sprints, as multi-format and multi-channel distribution (print-on-demand, PDF, Webbook W3C+, website, eBook, and as a Jupyter Book – and will be technically designed for reuse, for example in – community translations or in MOOCs. High quality open standards, metadata, and modern sematic/computational publishing are a priority and research interest of the production process.  
+Book sections will be released incrementally as they are ready. Ideally the book will become a community owned publication with regular updates.
+
+### **Design guide**
+
+* Colour palette \- [https://coolors.co/user/palettes/640dd5ff7ed05b000cd8aa95](https://coolors.co/user/palettes/640dd5ff7ed05b000cd8aa95)
+
+/\* CSV \*/ 00517b,eeb11e,215e9e,669ad2,000000  
+/\* With \# \*/ \#00517b, \#eeb11e, \#215e9e, \#669ad2, \#000000  
+/\* Array \*/ \["00517b","eeb11e","215e9e","669ad2","000000"\]  
+/\* Object \*/ {"Indigo dye":"00517b","Xanthous":"eeb11e","Lapis Lazuli":"215e9e","Blue Gray":"669ad2","Black":"000000"}  
+/\* Extended Array \*/ \[{"name":"Indigo dye","hex":"00517b","rgb":\[0,81,123\],"cmyk":\[100,34,0,52\],"hsb":\[200,100,48\],"hsl":\[200,100,24\],"lab":\[33,-4,-30\]},{"name":"Xanthous","hex":"eeb11e","rgb":\[238,177,30\],"cmyk":\[0,26,87,7\],"hsb":\[42,87,93\],"hsl":\[42,86,53\],"lab":\[76,11,74\]},{"name":"Lapis Lazuli","hex":"215e9e","rgb":\[33,94,158\],"cmyk":\[79,41,0,38\],"hsb":\[211,79,62\],"hsl":\[211,65,37\],"lab":\[39,4,-40\]},{"name":"Blue Gray","hex":"669ad2","rgb":\[102,154,210\],"cmyk":\[51,27,0,18\],"hsb":\[211,51,82\],"hsl":\[211,55,61\],"lab":\[62,-2,-34\]},{"name":"Black","hex":"000000","rgb":\[0,0,0\],"cmyk":\[0,0,0,100\],"hsb":\[0,0,0\],"hsl":\[0,0,0\],"lab":\[0,0,0\]}\]  
+/\* XML \*/
+
+* Fonts
+
+Crimson text \- Headers, [https://fonts.google.com/specimen/Crimson+Text?query=Crimson+text](https://fonts.google.com/specimen/Crimson+Text?query=Crimson+text)  
+Lato \- Body, [https://fonts.google.com/specimen/Lato?query=Lato](https://fonts.google.com/specimen/Lato?query=Lato)
