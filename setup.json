@@ -1,6 +1,0 @@
-{
-  "__comment": "Set values to false if no link should be created.",
-  "repoURL": "https://github.com/cs4rl/editorial-publishing-guide",
-  "repoBranch": "main",
-  "vivlioURL": "https://vivliostyle.vercel.app/"
-}
