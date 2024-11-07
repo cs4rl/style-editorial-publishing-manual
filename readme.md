@@ -1,5 +1,7 @@
 # README
 
+Manual for contributors, reviewers, editors, and publishing: https://cs4rl.github.io/style-editorial-publishing-manual/
+
 \#CS4RL
 
 # Citizen Science Guide for Research Libraries
