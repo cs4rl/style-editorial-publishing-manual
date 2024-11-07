@@ -3,17 +3,22 @@ project:
   output-dir: docs
 
 book:
-  title: "Editorial Publishing Guide"
+  title: "Style Guide, Editorial, & Publishing Manual"
+  subtitle: "Citizen Science for Research Libraries Guide"
   author: # repeat as often as needed
    - name: "Simon Worthington"
+     orcid: 0000-0002-8579-9717
+     email: simon.worthington@tib.eu
+     affiliations:
+      - name: TIB - Leibniz Information Centre for Science and Technology and University Library
    - name: "Stefan Wiederkehr"
   date: "11/7/2024"
   chapters:
     - index.qmd
-    - style-guide.qmd
-    - editorial-guide.qmd
-    - publishing-guide.qmd
-  repo-url: https://github.com/cs4rl/editorial-publishing-guide
+    - style-manual.qmd
+    - editorial-manual.qmd
+    - publishing-manual.qmd
+  repo-url: hhttps://github.com/cs4rl/style-editorial-publishing-manual
   repo-actions: [edit]
   downloads: [pdf,docx]
 
@@ -29,6 +34,8 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+  docx: 
+    toc: true  
 
 
 

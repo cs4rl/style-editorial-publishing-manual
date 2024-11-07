@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Editorial Publishing Guide",
+    "title": "Style Guide, Editorial, & Publishing Manual",
     "section": "",
-    "text": "Preface\nThis is a guide for the contributors and editorial team of the Citizen Science Guide for Research Libraries from the LIBER Citizen Science Working Group.",
+    "text": "Preface\nThis is a manual for the contributors and editorial team of the Citizen Science Guide for Research Libraries from the LIBER Citizen Science Working Group.\nThe manual is made of three parts:",
     "crumbs": [
       "Preface"
     ]
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#resources",
     "href": "index.html#resources",
-    "title": "Editorial Publishing Guide",
+    "title": "Style Guide, Editorial, & Publishing Manual",
     "section": "Resources",
     "text": "Resources\nDocumentation and tools\n\nGoogle Drive - (folder) https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols\nMeetings rolling agenda - (document) https://docs.google.com/document/d/1OAt5bM-WiM8JrwK_0kbuGyBzwV9N4-a8z9sAlpBi7BM/edit#heading=h.7ok2754bgdue\n\nMembership list and task areas - https://docs.google.com/document/d/1pwHNuFDy0W-jXE3VuyhLoREoe9BJ86cfdmKWTCgvI4g/edit\nTrello - https://trello.com/b/WH13uh1E/guide\nSlack - https://csguide.slack.com/ https://join.slack.com/t/csguide/shared_invite/zt-2ms9u6i3r-fYte~TT7Z7MLXiKmzfzU4g\nEditing platform (Fidus Writer) - https://write.handbuch.io/",
     "crumbs": [
@@ -20,8 +20,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html",
-    "href": "style-guide.html",
+    "objectID": "style-manual.html",
+    "href": "style-manual.html",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "",
     "text": "1.1 Contact\nThe Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) and Thomas Kaarsted (thk@bib.sdu.dk).",
@@ -30,8 +30,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#mission-statement",
-    "href": "style-guide.html#mission-statement",
+    "objectID": "style-manual.html#mission-statement",
+    "href": "style-manual.html#mission-statement",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.2 Mission statement",
     "text": "1.2 Mission statement\nThe guide is designed to be a practical and compact gateway publication for the purpose of assisting research libraries to start setting up a Citizen Science programme.\nCitizen Science for research libraries is a way to build new and more engaged audiences as a way to establish new links between science and society.\nThe guide will address the unique context of research libraries – as becoming the ‘go to place’ for the new and exciting Open Science data world that is opening up to the wider public.\nAs a starting point the guide will use the four recommendations for Citizen Science from the LIBER Open Science Roadmap: infrastructures; good scientific practice; guidelines, and; skilling.",
@@ -40,8 +40,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#contents",
-    "href": "style-guide.html#contents",
+    "objectID": "style-manual.html#contents",
+    "href": "style-manual.html#contents",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.3 Contents",
     "text": "1.3 Contents\nThe content will be organised around the following four main sections and release in sequential modules for reuse. The top level sections are set but the section contents should be seen as working ideas or suggestions for content.\n\nSkills: Citizen Science skills development for staff, researchers, and the public;\nInfrastructures: As being active in the development of infrastructure for researchers to carry out Citizen Science;\nGood [open] scientific practice: as managing bodies around knowledge libraries that can translate good [Open Science] scholarly practice into new Citizen Science fields, and;\nGuidelines: develop guidelines for Citizen Science activities involving the library.\n\n\n1.3.1 Glossary\nStart with Simple Knowledge Organization System (SKOS) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an Open Science example.",
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#roadmap",
-    "href": "style-guide.html#roadmap",
+    "objectID": "style-manual.html#roadmap",
+    "href": "style-manual.html#roadmap",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.4 Roadmap",
     "text": "1.4 Roadmap\nFirst section will be released Sept 2021, with the publication released as a first full version by the end of 2023.",
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#editorial-management",
-    "href": "style-guide.html#editorial-management",
+    "objectID": "style-manual.html#editorial-management",
+    "href": "style-manual.html#editorial-management",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.5 Editorial management",
     "text": "1.5 Editorial management\n\npeer review / roles\n\nCo-Editors-in-Chief: Simon Worthington and Thomas Kaarsted, reports to CSWG. The role is that of content planning and project management – that contributions fulfill the mission to make a compelling and exciting end product; ensuring publication review groups and production workflows stay on track. Duties: maintain content outline; organise meeting schedule; oversee technical production, and; responsible for legal, ethical, and quality guidelines and standards compliance on behalf of CSWG.\nEditorial committee (can also peer review): Chair – Paul Ayris, with a minimum of four members of the committee. The committee is made up of the section editors. There will be one section editor per section of four sections (optionally sometimes two section editors). The committee has the final editorial signoff on content. The role of the committee is content coordination and commissioning contributions – that sections have enough content, the right type of content, and that style guides and templates, etc., are being followed.\nSection editors: The role of the section editor is to oversee that the content fits the scope and editorial policy. Section editors work with close support from the Editors-in-Chief and report to the editorial committee with the content of the section, recruit contributors, and correspond with peer reviewers. Section editors would ensure that contributors have followed contributor guidelines.\nSection editors are:\n\nCitizen Science research infrastructure – Kirsty Wallis, University College London\nGood (Open Science) scholarly practice in Citizen Science – Bastian Greshake Tzovaras, OpenHumans\nGuidelines for Citizen Science programme development in libraries – Paul Ayris, University College London\nCitizen Science Skilling for Staff, Researchers, and the Public – Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: 0000-0002-5888-1221 e-mail: jstha@dtu.dk\n\nContributor: A contributor would provide one or two articles in agreement with section editors following the templates and style sheet of the guide.\nPeer review: Carry out some parts as Open Peer Review. Made up of people appointed by section editors. There will be two peer reviewers per section. The reviews will be selected from – CSWG; editorial committee; external appointees, and publication partners and collaborators.\nScientific peer review: The editorial committee would aim to appoint two experts in the field as external reviewers.\nPartners: Bring on contributing partners to the publication as institutional partners. Primarily these partners would provide and exchange content, as experts in the field, and be co-producers. These partners could also contribute resources and be attributed: DOIs, ISBN, profiling, translations, etc. Letters of agreement would be made with partners.\nCollaborations: These would orientate around content provision, advocacy, research and resource provision.",
@@ -70,8 +70,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#notes-for-editors",
-    "href": "style-guide.html#notes-for-editors",
+    "objectID": "style-manual.html#notes-for-editors",
+    "href": "style-manual.html#notes-for-editors",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.6 Notes for editors",
     "text": "1.6 Notes for editors\n\nStyle guide, and contribution templates\n\nCo-Editors-in-Chief Simon Worthington and Thomas Kaarsted will provide writers guidelines for you to distribute to contributors.\nAll character counts are inclusive white spaces.\nWe would encourage contributors to do the following:\n\nTo make available check lists or materials used in CS activities and supply us with information on these and then we can see how to include them as either incorporated check lists or as external linked content.\nTo provide us with visual material to support contributions: photo documentation of past events; PDFs of promotional material, videos and video links so that we can look at how to creatively include these in articles.\nReferences will be typeset as CMOS note bibliography per article, with no author date inline, and in a Zotero Groups - Collection.\nIf possible use Zotero citation manager in Google Docs and store citations in the CSWG Zotero group, see: https://www.zotero.org/groups/2420395/cswg/collections/HAJYX37C\nSections should be thought of as 25 page sections, with 400 words a page as a guide.\n\n\n1.6.1 Style Guide\n\nPrepare the text in English. The Chicago Manual of Style 17th Edition (CMOS) is being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:\n\nWe will use an International English as the primary audience is English as a second language in Europe as the expectation of the reader leans towards UK English. For example end wods is ise and ize, but use US License as Creative Commons use the US form of license. This also applies to en and em dashes, use spaces unlike the US with no space. Refer to The Ecnoomist style guide as that caters to a US EN audience.\nUse the Oxford Comma. Which means the presence of a comma before and or or in a list of three or more items.\n\nEn and em dash policy. For em dash use we’ll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens.\n\nTypesetting punctuation:\n\nUse no breaking hyphens in phrases like Co‑creation – Word instructions https://word.tips.net/T001116_Inserting_a_Non-Breaking_Hyphen.html – HTML https://www.toptal.com/designers/htmlarrows/punctuation/non-breaking-hyphen/\n\nCapitalisation:\n\nFor terms like open science, open access, open data, or FAIR data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you’re not sure. romanticism; Keynesian economics; cubism; Cynicism. The rule of thumb can also be applied that capitalisation is to get rid of ambiguity. So in our example\nFAIR data would have acronym capitalised\n\nOpen science, open data, and open access – would all be lowercase\nOpen source software – here we run into the ‘rival camps’ problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.\nI will list more examples as they come up.\nArticle titles capitalised as ‘title capitalisation’, running headers only first word and after :\nJob or role title removed.",
@@ -80,8 +80,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#using-fidus-writers",
-    "href": "style-guide.html#using-fidus-writers",
+    "objectID": "style-manual.html#using-fidus-writers",
+    "href": "style-manual.html#using-fidus-writers",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.7 Using Fidus Writers",
     "text": "1.7 Using Fidus Writers\n\nGuide: https://mrchristian.github.io/guide-en/\n\n\nNote: Fidus Writer is designed as a semantic editors, for document editing and layout this means that there are some restrictions on editing like not being able to select fonts - instead style in terms of fonts, citation styles, etc., are applied on output. See the Book area of the site to preview content in final outputs such as PDF, eBook, Web, WebBook, etc.\nImages: Images can be configured to appear in text as: figures, photos, to replace tables, etc. Also figures can be set to display captions or not. Last images can be set as 100%, 75%, 50%, and 25% width. Image widths can be set later at the time of publishing.\nIntro, author, and DOI styling. See example: https://write.handbuch.io/document/465. Intro uses the Abstract style. Author text as Normal style. DOI line is made as bold.\nAdding or converting manual added citations. Fidus Writer has a citation manager that needs to be used as this applies citation style langauge to citations - styling them and organising them. Place cursor inline where you want the citation to be inserted. In top menu select Cite - you will be able to either search databases for citation or manually add a citation. The citation will be added inline and at bottom of article. Citations get automatically styled if citation style is changed. Citations can be edited by clicking them in the bottom of the article.\nInserting footnotes. Use * tool from format toolbar at top of document.\nTables. Tables can be added and edited from the format toolbar and via the three dot edit icon inline. Note: Currently in the CS Guide publications tables are exclusively used to style the info boxes. See information in the Article finishing section.\nSpelling and grammar check: A spellchecker is available from the Tools menu. Once spelling and grammar checker has been loaded - right click on marked items to see correction suggestions. To remove marks use the menu item: Tools &gt; Spelling and Grammar &gt; Remove items.\nLinks: URL links can be added and edited. Do not use the internal links function as this does not work for all outputs.\nSave revisions: You can make snapshot saved revisions - for example to save a copy prior to editing reviews. These revisions need to be loaded back into the system as new documents which is a bit cumbersome. Contact support to revert to a revision.\nSharing articles: to give others access to documents you need to share the document with a specific user. See the file menu for sharing options.\nTrack changes: There is full track changes functionality if needed. See the top level menu item in documents.",
@@ -90,8 +90,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#article-finishing",
-    "href": "style-guide.html#article-finishing",
+    "objectID": "style-manual.html#article-finishing",
+    "href": "style-manual.html#article-finishing",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.8 Article finishing",
     "text": "1.8 Article finishing\n\nProcessing review edits: Save a names revision before processing edits so that we have a copy of the reviews if they have been added as comments or track changes.\nArticle images. Editors need to add article images. Articles need a featured image if possible, note its optional to have a featured image. This should be placed immediately after the article title or after the into and author credit. It depends on how the article looks in layout as to its placement. Place other images in the article to help communicate the work. If you cannot source any images then please raise a ticket and the editorial group will take on board the task.\nUse of academic titles for authors and editors? Generally remove. But if unsure consult the editorial group for support https://github.com/cs4rl/guide/issues/35\n\nUse them if provided by author in attribution? TBC\nBook information: Copyright pages, authors, etc., do not use\n\nThe text should have a Title (between 1 and 10 words).\nThe text should have a headline summary that briefly outlines the content of the section (max. 30 words).\nFor each introduction author submit a name, department and institution, and ORCID iD. But not job title. See example https://write.handbuch.io/document/465\nArticle DOI line. Add as Article DOI: 10.25815/f360-s580 | You can retrieve DOIs from the article page plan Google spreadsheet. https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit#gid=0\nArticle Info Boxes and Case Studies formatting: Currently this is a bit of a work around as applying an inline style is not possible in other ways. To make an info box first create a table with only one cell, then paste content into the cell and format as usual. The effect of using the table is that it puts a blue background behind and around the text.\nPlease divide the text into sections, with the following. Note: There is a Header hierarchy view on the left of Documents accessible via the ‘scroll’ icon.:\n\nHeadings H2,\nSubheadings H3.\n\nDo not include a Table of Contents.\nUse single space for spacing.\nDo not use line spaces between paragraphs or for line spacing, instead use space before and after paragraph or header.\nUse single column format.\nTables and figures. To be placed in individual files. Tables should serve a purpose and display cores data in a brief and structured way.\nEach Table and Figure are automatically numbered by the publishing pipeline, there is no need to manually add them. A brief description placed below that correspond with the file. All Figures in min. 600 dpi resolution or vector graphic.\nA maximum of three core references listed at the very bottom.\nUse The Chicago Manual of Style 17th Edition style for references. All references should have an author or organization given first. Also please list a DOI for each reference if possible.\nSample reference:\nAyris, Paul, Isabel Bernal, Valentino Cavalli, Bertil Dorch, Jeannette Frey, Martin Hallik, Kristiina Hormia-Poutanen, et al. ‘LIBER Open Science Roadmap’. LIBER, 2 July 2018. .\nFor any additional details please contact the Co-Editors-in-Chief: Simon Worthington (simon.worthington@tib.eu) or Thomas Kaarsted (thk@bib.sdu.dk).\nAuthor and editor profiles. ORCID ORCID iD: followed by 16 digit number and not URL as commonly used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link to both and make links active.\n\nSee example: By Jitka Stilund Hansen, DTU Library, Technical University of Denmark, (ORCID iD: 0000-0002-5888-1221).\n\nRefer to sections numbers as Section #1 or Section #2.\n\n\n1.8.1 Template Guides\n\n1.8.1.1 Section introduction - to be written by section editor\n\nThe text is a maximum of 400 words, 2800 characters including spaces (including Tables, Figures, Photos)\nTitle and headline.\nOne image\nAdd three or more learning outputs in an info box style. What you will learn in this section. An additional 300 words can be give to the ’learning outputs#.\n\nTotal for section into 700 words.\n\n\n1.8.1.2 Quick start guide - p5 example from SciStarter guide\nThis could be to introduce a topic, or a service someone could use, like FloraIncognita.\n\nMain title, subtitle\nDefinition box: 6 bullet points\nVideo online tutorial: Title; image; description 255 characters; URL\nLearn more: List of supporting resources - 1060 characters, 135 words\n\n\n\n1.8.1.3 Overview / Essay / Expository text - p6 SciStarter (3 page example, can also be longer with 4 page example and more text 9000 characters)\n\n1.8.1.3.1 3 page version\n\nTotal character length 5600 characters, 830 words\nTitle, subtitle\nTwo images in main text\nMain text: Use bullet points and sub-headers; 5000 characters of total\nSummarise main points in infobox. No more than four points. 600 characters of total\nEnd section to show how library can make use of idea, with examples for resources. Title; 1000 characters of total.\n\n\n\n1.8.1.3.2 4 page version\n\nTotal character length 9000 characters, 1320 words\nTitle, subtitle\nMain text: Use bullet points and sub-headers; 7800 characters of total\nUse a series of small images - 7 max. If images described in the text then no picture caption needed.\nUse two info boxes to highlight important issues with bullet points and use an image here if preferred. 600 characters each of total char. length.\n\n\n\n\n1.8.1.4 Project highlight or example, this could also count for a video piece - one pager p20 SciStarter\n\nTitle\nHeadline description 90 - 140 char.\nOne or two images\nText: 1200 -1500 characters\n\n\n\n1.8.1.5 Step-by-step guide\n\n1.8.1.5.1 Short - p28 SciStarter\n\nTitle, headline 95 characters\n5000 characters; Use bullet points and sub-headers\n2-4 images\n\n\n\n1.8.1.5.2 Long - p30 SciStarter\n\nTitle, headline 95 characters\n14,000 characters total\n10 pictures max\nBreak process into no more than 7 steps of 500 characters each\nThen following text",
@@ -100,8 +100,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#production",
-    "href": "style-guide.html#production",
+    "objectID": "style-manual.html#production",
+    "href": "style-manual.html#production",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.9 Production",
     "text": "1.9 Production\nThe book is intended as a short guide and will be approximately one hundred pages in length. The publication will be produced in conventional and sprint/dash book sprints, as multi-format and multi-channel distribution (print-on-demand, PDF, Webbook W3C+, website, eBook, and as a Jupyter Book – and will be technically designed for reuse, for example in – community translations or in MOOCs. High quality open standards, metadata, and modern sematic/computational publishing are a priority and research interest of the production process.\nBook sections will be released incrementally as they are ready. Ideally the book will become a community owned publication with regular updates.\n\n1.9.1 Design guide\n\nColour palette - https://coolors.co/user/palettes/640dd5ff7ed05b000cd8aa95\n\n/* CSV */ 00517b,eeb11e,215e9e,669ad2,000000\n/* With # */ #00517b, #eeb11e, #215e9e, #669ad2, #000000\n/* Array */ [“00517b”,“eeb11e”,“215e9e”,“669ad2”,“000000”]\n/* Object */ {“Indigo dye”:“00517b”,“Xanthous”:“eeb11e”,“Lapis Lazuli”:“215e9e”,“Blue Gray”:“669ad2”,“Black”:“000000”}\n/* Extended Array */ [{“name”:“Indigo dye”,“hex”:“00517b”,“rgb”:[0,81,123],“cmyk”:[100,34,0,52],“hsb”:[200,100,48],“hsl”:[200,100,24],“lab”:[33,-4,-30]},{“name”:“Xanthous”,“hex”:“eeb11e”,“rgb”:[238,177,30],“cmyk”:[0,26,87,7],“hsb”:[42,87,93],“hsl”:[42,86,53],“lab”:[76,11,74]},{“name”:“Lapis Lazuli”,“hex”:“215e9e”,“rgb”:[33,94,158],“cmyk”:[79,41,0,38],“hsb”:[211,79,62],“hsl”:[211,65,37],“lab”:[39,4,-40]},{“name”:“Blue Gray”,“hex”:“669ad2”,“rgb”:[102,154,210],“cmyk”:[51,27,0,18],“hsb”:[211,51,82],“hsl”:[211,55,61],“lab”:[62,-2,-34]},{“name”:“Black”,“hex”:“000000”,“rgb”:[0,0,0],“cmyk”:[0,0,0,100],“hsb”:[0,0,0],“hsl”:[0,0,0],“lab”:[0,0,0]}]\n/* XML */       \n\nFonts\n\nCrimson text - Headers, https://fonts.google.com/specimen/Crimson+Text?query=Crimson+text\nLato - Body, https://fonts.google.com/specimen/Lato?query=Lato",
@@ -110,8 +110,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#acknowledgements",
-    "href": "style-guide.html#acknowledgements",
+    "objectID": "style-manual.html#acknowledgements",
+    "href": "style-manual.html#acknowledgements",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.10 Acknowledgements",
     "text": "1.10 Acknowledgements\nWe would like to acknowledge The Library & Community Guide to Citizen Science published by SciStarter as an inspiration for the idea for our publication. Additionally The Turing Way from the Alan Turing Institute is worth mentioning as a community model of open science publishing that we look to emulate.",
@@ -120,8 +120,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#an-open-science-publication",
-    "href": "style-guide.html#an-open-science-publication",
+    "objectID": "style-manual.html#an-open-science-publication",
+    "href": "style-manual.html#an-open-science-publication",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.11 An Open Science publication",
     "text": "1.11 An Open Science publication\nThe publication will be produced as an Open Access publication and use Open Science practices – where appropriate – to ensure the research is open and reusable as possible, including: open data, open standards, PIDs, open peer review, open source software, and open methods, etc.\n© 2021 the authors. All content licensed Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise stated. https://creativecommons.org/licenses/by-sa/4.0/ | Publication: https://github.com/CitSci-WG/guide",
@@ -130,8 +130,8 @@
     ]
   },
   {
-    "objectID": "style-guide.html#references",
-    "href": "style-guide.html#references",
+    "objectID": "style-manual.html#references",
+    "href": "style-manual.html#references",
     "title": "1  Contributor & Editor: Style Guide",
     "section": "1.12 References",
     "text": "1.12 References\nAyris, Paul, Bernal, Isabel, Cavalli, Valentino, Dorch, Bertil, Frey, Jeannette, Hallik, Martin, Hormia-Poutanen, Kristiina, et al. “LIBER Open Science Roadmap”. Zenodo, July 2, 2018. doi: https://doi.org/10.5281/zenodo.1303002. Page 29.\nMahey, Al-Abdulla, Ames, Bray, Candela, Chambers, Derven, et al. Open a Glam Lab. Doha, Qatar: Digital Cultural Heritage Innovation Labs, 2019. https://glamlabs.io/books/open-a-glam-lab/.\nCavalier, Darlene, Caroline Nickerson, Robin Salthouse, and Dan Stanton, eds. The Library & Community Guide to Citizen Science. SciStarter, 2020 (Revised 2021). http://media.scistarter.org/curated/The+Library+and+Community+Guide+to+Citizen+Science.pdf.\nArnold, Becky, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, Anna Krystalli, Alexander Morley, Martin O’Reilly, Kirstie Whitaker, and The Turing Way Community. The Turing Way: A Handbook for Reproducible Data Science, 2019. https://doi.org/10.5281/zenodo.3233986.\n\nFooter\n© 2021-23 the authors. All content licensed Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise stated. https://creativecommons.org/licenses/by-sa/4.0/ | Publication: https://github.com/CitSci-WG/guide.\nImprint: Responsible for the content of the domain https://github.com/CitSci-WG/guide/ - Simon Worthington (LIBER CSWG Secretary), Lausitzer Platz 10, 10997 Berlin, Germany. E-mail: simon.worthington AT tib.eu - Internet: https://libereurope.eu/working-group/liber-citizen-science-working-group/. The respective authors are responsible for the content of their posts.\nData protection: No data trackers are used on this site and no personal information is stored. Data protection notice - version 1.1, 16 July 2023.",
@@ -140,8 +140,8 @@
     ]
   },
   {
-    "objectID": "editorial-guide.html",
-    "href": "editorial-guide.html",
+    "objectID": "editorial-manual.html",
+    "href": "editorial-manual.html",
     "title": "2  Editorial",
     "section": "",
     "text": "Instructions for editors.",
@@ -150,8 +150,8 @@
     ]
   },
   {
-    "objectID": "publishing-guide.html",
-    "href": "publishing-guide.html",
+    "objectID": "publishing-manual.html",
+    "href": "publishing-manual.html",
     "title": "3  Publishing",
     "section": "",
     "text": "Instructions for publishing team.",

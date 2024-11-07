@@ -1,6 +1,16 @@
 # Preface {.unnumbered}
 
-This is a guide for the contributors and editorial team of the Citizen Science Guide for Research Libraries from the LIBER Citizen Science Working Group.
+This is a manual for the contributors and editorial team of the Citizen Science Guide for Research Libraries from the LIBER Citizen Science Working Group.
+
+The manual is made of three parts:
+
+- A Style Guide Manual: For contributors, reviewers, editors
+- An Editorial Manual: For editors and reviewers
+- A Publishing Manual: For the publishing and platform workflows
+
+# Editing 
+
+Please edit the manual on [Google Docs](https://drive.google.com/drive/folders/1LxoxOoPWMtRPa0S2PDPyUqAyVPfbPJyM) and raise a Github [Issue](https://github.com/cs4rl/style-editorial-publishing-manual/issues) to have edits approved or use the pipeline to commit edits.
 
 ## Resources
 
