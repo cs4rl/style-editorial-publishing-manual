@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Editorial Publishing Guide"
+  author: # repeat as often as needed
+   - name: "Simon Worthington"
+   - name: "Stefan Wiederkehr"
+  date: "11/7/2024"
+  chapters:
+    - index.qmd
+    - style-guide.qmd
+    - editorial-guide.qmd
+    - publishing-guide.qmd
+  repo-url: https://github.com/cs4rl/editorial-publishing-guide
+  repo-actions: [edit]
+  downloads: [pdf,docx]
+
+# Quarto allows commenting using either Hypothesis or Utterances
+# https://quarto.org/docs/reference/projects/books.html#comments
+comments:
+  hypothesis: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
