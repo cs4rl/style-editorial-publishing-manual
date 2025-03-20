@@ -19,7 +19,7 @@ book:
     - article-templates.qmd
     - editorial-manual.qmd
     - publishing-manual.qmd
-  repo-url: hhttps://github.com/cs4rl/style-editorial-publishing-manual
+  repo-url: https://github.com/cs4rl/style-editorial-publishing-manual
   repo-actions: [edit]
   downloads: [pdf,docx]
 
