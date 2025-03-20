@@ -1,0 +1,111 @@
+## Article Templates
+
+*Note: \[[Edit on GDocs](https://drive.google.com/drive/folders/https://docs.google.com/document/d/14JrwvQPy6xT78ScZC1i9Nd6CYJktBPaGroCvPkq9rPE/edit?tab=t.0#heading=h.kjvid9wwyz9v)\] | \[[Raise ticket for review and publishing](https://github.com/cs4rl/style-editorial-publishing-manual/issues)\]*
+
+There are different article types each with its own guidelines. Please find the details below. In summary:
+
+1. Section introduction  
+2. Quick start guide  
+3. Overview / Essay / Expository text  
+4. Project highlight or example  
+5. Step-by-step guide  
+6. Info box style
+
+### Section introduction
+
+(To be written by section editor)
+
+Example: TBC
+
+* Total for the article 700 words.
+
+* The text is a maximum of 400 words (including: title and headline, tables, figures, and photos)
+
+* One image
+
+* Add three or more learning outputs in an ‘Info box template style’ (see instructions at end of template list). An additional 300 words can be given to the learning outputs part. Example: 
+
+### Quick start guide
+
+Example: [p5 example from SciStarter guide](http://media.scistarter.org/curated/The+Library+and+Community+Guide+to+Citizen+Science.pdf)  
+This could be to introduce a topic, or a service someone could use, like [FloraIncognita](https://floraincognita.com/) (plant ID app).
+
+* Main title, subtitle  
+* Definition box: 6 bullet points  
+* Video online tutorial: Title; image; description 40 words; URL link  
+* Learn more: List of supporting resources — 135 words
+
+### Overview / Essay / Expository text
+
+Example: p6 example from SciStarter 
+
+#### 3 page version 
+
+* Total 850 words
+
+* Title, subtitle
+
+* Two images in main text
+
+* Main text: Use bullet points and sub-headers; 650 words
+
+* Summarise main points in infobox. No more than four points. 80 words. 
+
+* End section to show how libraries can make use of ideas, with examples for resources. Title; 120 words total.
+
+#### 4 page version
+
+* Total character length 1320 words
+
+* Title, subtitle
+
+* Main text: Use bullet points and sub-headers; 1120 words total
+
+* Use a series of small images — 7 max. If images are described in the text then no picture caption is needed.
+
+* Use two info boxes to highlight important issues with bullet points and use an image here if preferred. 100 words each.
+
+### Project highlight or example
+
+(This could also count for a video piece or single page project example)
+
+Example: p20 example from SciStarter
+
+* Title
+
+* Headline description 20 words
+
+* One or two images
+
+* Text: Up to 180 words
+
+### Step-by-step guide
+
+#### Short version
+
+##### Example: p28 SciStarter
+
+* Title, headline 12 words
+
+* 625 words; Use bullet points and sub-headers
+
+* 2-4 images
+
+#### Long version
+
+##### Example: p30 SciStarter
+
+* Title, headline 12 words
+
+* 1,750 words total
+
+* 10 pictures max
+
+* Break process into no more than 7 steps of 65 words each
+
+* Then following text
+
+### Info box style
+
+##### Example: 
+

@@ -12,10 +12,11 @@ book:
      affiliations:
       - name: TIB - Leibniz Information Centre for Science and Technology and University Library
    - name: "Stefan Wiederkehr"
-  date: "11/7/2024"
+  date: today
   chapters:
     - index.qmd
     - style-guide.qmd
+    - article-templates.qmd
     - editorial-manual.qmd
     - publishing-manual.qmd
   repo-url: hhttps://github.com/cs4rl/style-editorial-publishing-manual
