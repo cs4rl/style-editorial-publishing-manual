@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Style Guide, Editorial, & Publishing Manual"
+  title: "Manual for #CS4RL Guide Publishing: Style Guide, Editorial, & Publishing"
   subtitle: "Citizen Science for Research Libraries Guide"
   author: # repeat as often as needed
    - name: "Simon Worthington"
@@ -12,6 +12,10 @@ book:
      affiliations:
       - name: TIB - Leibniz Information Centre for Science and Technology and University Library
    - name: "Stefan Wiederkehr"
+     orcid: 0000-0003-1339-0688
+     email: stefan.wiederkehr@zb.uzh.ch
+     affiliations:
+      - name: Zentralbibliothek Zürich
   date: today
   chapters:
     - index.qmd

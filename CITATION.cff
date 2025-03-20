@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite it as below."
+authors:
+- family-names: "Worthington"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0002-8579-9717"
+- family-names: "Wiederkehr"
+  given-names: "Stefan"
+  orcid: "https://orcid.org/000-0003-1339-0688"
+title: "Manual for #CS4RL Guide Publications: Style Guide, Editorial, & Publishing"
+version: 0.0.1 Beta
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15057298
+date-released: 2025-03-20
+url: "https://github.com/cs4rl/style-editorial-publishing-manual"
